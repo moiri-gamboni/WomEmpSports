@@ -256,7 +256,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["@npmcli/fs", "npm:2.1.2"],\
             ["@gar/promisify", "npm:1.1.3"],\
-            ["semver", "npm:7.5.1"]\
+            ["semver", "npm:7.5.3"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -1509,7 +1509,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["nopt", "npm:6.0.0"],\
             ["npmlog", "npm:6.0.2"],\
             ["rimraf", "npm:3.0.2"],\
-            ["semver", "npm:7.5.1"],\
+            ["semver", "npm:7.5.3"],\
             ["tar", "npm:6.1.15"],\
             ["which", "npm:2.0.2"]\
           ],\
@@ -2016,10 +2016,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["semver", [\
-        ["npm:7.5.1", {\
-          "packageLocation": "./.yarn/cache/semver-npm-7.5.1-0736382fb9-d16dbedad5.zip/node_modules/semver/",\
+        ["npm:7.5.3", {\
+          "packageLocation": "./.yarn/cache/semver-npm-7.5.3-275095dbf3-9d58db1652.zip/node_modules/semver/",\
           "packageDependencies": [\
-            ["semver", "npm:7.5.1"],\
+            ["semver", "npm:7.5.3"],\
             ["lru-cache", "npm:6.0.0"]\
           ],\
           "linkType": "HARD"\

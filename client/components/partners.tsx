@@ -174,6 +174,7 @@ export default function Partners() {
                   as={NextImage}
                   w='200px'
                   sx={{ objectFit: 'contain' }}
+                  width={200}
                 />
               </LinkOverlay>
               <HStack pt={3} spacing={0}>
